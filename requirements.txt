@@ -1,0 +1,4 @@
+gitpython
+requests
+python-dotenv
+urlextract
